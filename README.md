@@ -1,2 +1,2 @@
 # SQL-Community-Challenges
-SQL Challenges and queries all over the web with variable difficulty levels.
+A repository with a collection of SQL case studies and challenges from basic to advanced levels from all over the web.
